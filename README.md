@@ -1,2 +1,1 @@
-# -blahah
-moi? it's pronounced "mwah!" (kissing sound)
+![](https://raw.githubusercontent.com/blahah/blahah/main/github-metrics.svg)
