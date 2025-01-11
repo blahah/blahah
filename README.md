@@ -8,9 +8,12 @@
 
 ## some projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blahah&repo=transrate&theme=neon&show_icons=true)](https://github.com/blahah/transrate)
+[![sciencefair Card](https://github-readme-stats.vercel.app/api/pin/?username=sciencefair-land&repo=sciencefair&theme=neon&show_icons=true)](https://github.com/sciencefair-land/sciencefair)
+
+[![transrate Card](https://github-readme-stats.vercel.app/api/pin/?username=blahah&repo=transrate&theme=neon&show_icons=true)](https://github.com/blahah/transrate)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blahah&repo=yunodb&theme=neon&show_icons=true)](https://github.com/blahah/yunodb)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blahah&repo=pdf-narcissist&theme=neon&show_icons=true)](https://github.com/blahah/pdf-narcissist)
+
 
