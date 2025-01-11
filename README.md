@@ -8,12 +8,11 @@
 
 ## some projects
 
-[![sciencefair Card](https://github-readme-stats.vercel.app/api/pin/?username=sciencefair-land&repo=sciencefair&theme=neon&show_icons=true)](https://github.com/sciencefair-land/sciencefair)
+[![sciencefair Card](https://github-readme-stats.vercel.app/api/pin/?username=sciencefair-land&repo=sciencefair&theme=neon&show_icons=true)](https://github.com/sciencefair-land/sciencefair) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blahah&repo=yunodb&theme=neon&show_icons=true)](https://github.com/blahah/yunodb)
 
-[![transrate Card](https://github-readme-stats.vercel.app/api/pin/?username=blahah&repo=transrate&theme=neon&show_icons=true)](https://github.com/blahah/transrate)
+[![transrate Card](https://github-readme-stats.vercel.app/api/pin/?username=blahah&repo=transrate&theme=neon&show_icons=true)](https://github.com/blahah/transrate) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blahah&repo=pdf-narcissist&theme=neon&show_icons=true)](https://github.com/blahah/pdf-narcissist)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blahah&repo=yunodb&theme=neon&show_icons=true)](https://github.com/blahah/yunodb)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blahah&repo=pdf-narcissist&theme=neon&show_icons=true)](https://github.com/blahah/pdf-narcissist)
+
 
 
