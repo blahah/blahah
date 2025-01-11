@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/blahah/blahah/main/github-metrics.svg)
+[![blahah's GitHub stats](https://github-readme-stats.vercel.app/api?username=blahah)](https://github.com/blahah/github-readme-stats)
